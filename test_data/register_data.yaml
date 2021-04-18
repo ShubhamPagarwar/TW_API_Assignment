@@ -1,0 +1,7 @@
+register_success:
+   email: "eve.holt@reqres.in"
+   password: "pistol"
+
+register_verify_through_login:
+   email: "eve.holt@reqres.in"
+   password: "pistol"

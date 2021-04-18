@@ -1,0 +1,6 @@
+create_user:
+   name: "morpheus"
+   job: "leader"
+
+delete_user:
+   id: 2

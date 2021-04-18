@@ -1,0 +1,22 @@
+login_success:
+    email:  eve.holt@reqres.in
+    password: cityslicka
+
+login_fail_empty_data:
+    email:  ""
+    password: ""
+
+login_fail_no_password:
+    email: "eve.holt@reqres.in"
+
+login_fail_no_email:
+    password: "cityslicka"
+
+login_fail_incorrect_username:
+     email: "abc@reqres.in"
+     password: "cityslicka"
+
+login_fail_incorrect_password:
+    email: "eve.holt@reqres.in"
+    password: "abc@123"
+
