@@ -11,12 +11,12 @@ Robot Framework technology has been used to build the automation framework with 
 ###### test_cases 
      - login_TC.robot - It contains all the test cases which come under the Login endpoint.
      - register_TC.robot - It contains all the test cases which come under the Register endpoint.
-     - user_TC.robot - It contains all the test cases which come under the Register endpoint.
+     - user_TC.robot - It contains all the test cases which come under the User endpoint.
 ###### test_data 
      - setup.yaml - It contains the test data which do needful to build configuration. As of now, domain url has mentioned and it has been used while creating session at session.robot.
      - login_data.yaml - It represents the test data which has used in all Login endpoint related TC.
      - register_data.yaml - It represents the test data which has used in all Register endpoint related TC.
-     - user_data.yaml - It represents the test data which has used in all Login endpoint related TC.
+     - user_data.yaml - It represents the test data which has used in all User endpoint related TC.
 
 #### **********How to trigger Test Suite***********
 ###### Pre-reuisite -
